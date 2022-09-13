@@ -12,4 +12,6 @@ del que creo que sera el mejor juego de God Of War llamado Ragnarok. \n\n </stri
     <string name="app_name">About Me</string>
     <string name="name">Giovanni Alejo</string>
     <string name="yellow_star">Yellow_star</string>
+    <string name="what_is_your_nickname">What_is_your_Nickname?</string>
+    <string name="done">Done</string>
 </resources>
