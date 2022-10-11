@@ -1,16 +1,18 @@
 <resources>
-    <string name="bio">Hi, my name is Giovanni Alejo.
-\n\nI love the saga of God Of War.
-\n\nMe gusta esta saga por lo viceral que es, en un principio habia mucho conflicto porque
-        decian que solamente era de presionar cuadrado, triangulo o circulo y con minijuegos aburridos.
-\n\nLa verdad de esto es que si, era un hackandslash y por ende la formula era repetitiva pero uno
-siente satisfaccion al acabar con sus enemigos escuchando una banda sonora hermosa.
-\nAdemas de eso, lo atractivo de esta saga es como representa en su propio punto de vista las
-mitologias(en este caso va por la nordica y quien sabe si siga en egipcia o china).
-\n\nI\Estoy bien feliz de haber conocido esta saga desde niño y estoy a la espera
-del que creo que sera el mejor juego de God Of War llamado Ragnarok. \n\n </string>
+    <string name="app_name">AboutMeGuiada</string>
+    <string name="name">Andy Martinez Lopez</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola, mi nombre es Andrea Paola, pero me gusta que me digan Andy.
+\n\nEstoy en septimo semestre de la carrera de sistemas computacionales.
+\n\nVivo en yuriria, pero vengo de lunes a sabado a la universidad
+\nMi color favorito es el morado y mi cumpleaños es el 12 de septiembre
+\n\nMe gusta mucho las festividades de agosto a diciembre, es la mejor mitad del año
+\nMi deporte favorito es el basquetbol, pero tambien veo futbol americano, futbol soccer y natacion
+\nMi comida favorita son los tacos, la pizza pero sobretodo los chiles rellenos
+
+</string>
     <string name="app_name">About Me</string>
-    <string name="name">Giovanni Alejo</string>
+    <string name="name">Andrea Paola Martinez Lopez</string>
     <string name="yellow_star">Yellow_star</string>
     <string name="what_is_your_nickname">What_is_your_Nickname?</string>
     <string name="done">Done</string>
